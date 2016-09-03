@@ -1,9 +1,6 @@
 //
-//  SixthViewController.h
-//  ZTMenuBarType2
-//
-//  Created by zzt on 16/9/2.
-//  Copyright © 2016年 zzt. All rights reserved.
+//  Created by zZT on 15/4/28.
+//  Copyright © 2015年 ZZT. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

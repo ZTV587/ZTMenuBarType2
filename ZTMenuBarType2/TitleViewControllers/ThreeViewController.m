@@ -1,9 +1,6 @@
 //
-//  ThreeViewController.m
-//  ZTSwitchControllers
-//
-//  Created by zZT on 16/8/28.
-//  Copyright © 2016年 zZT. All rights reserved.
+//  Created by zZT on 15/4/28.
+//  Copyright © 2015年 ZZT. All rights reserved.
 //
 
 #import "ThreeViewController.h"
